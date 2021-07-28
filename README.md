@@ -2,7 +2,7 @@
 
 This project is from the OOP course of L1T2 at BUET.
 
-Created an application using JavaFX where paitents can take doctor appointments from hospital. The doctors can see and manage their upcoming appointments.
+Created an application using JavaFX where patients can take doctor appointments from the hospital. The doctors can see and manage their upcoming appointments.
 
 Used:
 - Java OOP concepts
